@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Github Project,  Going to university
 
-- 🌱 I’m currently learning Date Analyze 
+- 🌱 I’m currently learning Data Science
 
 - 👯 I’m looking to collaborate on projects 
 
