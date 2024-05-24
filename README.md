@@ -1,6 +1,6 @@
 
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello < Developers/ >! ![github-header-image](https://github.com/rezzstra/rezzstra/assets/142921009/6ba7d4d7-a0d5-4561-ae64-91e577514981) </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rezzstra.rezzstra)
