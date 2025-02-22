@@ -1,1 +1,1 @@
-![rezzstra's Stats](https://github-readme-stats.vercel.app/api?username=rezzstra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
